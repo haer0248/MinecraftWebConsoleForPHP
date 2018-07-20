@@ -19,6 +19,7 @@
 - 可以使用指令控制伺服器 (Windows) 使用鍵盤除了ESC跟Enter呼叫出來
 
 ##更新紀錄
-- none
+- 2018/07/20 
+  新增回傳顯示功能 (index.php / exec.php)
 
 ##有任何BUG請開啟issue謝謝~
