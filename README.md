@@ -4,6 +4,9 @@
 1. 先至 config/config.php 變更伺服器路徑資料
 2. 之後返回主目錄進入 exec.php 變更 RCON 資料
 
+##系統要求:
+PHP5.6+
+
 ##RCON啟用:
 1. 到server.properties (伺服器設定檔案)
 2. enable-rcon=false 改為 true
